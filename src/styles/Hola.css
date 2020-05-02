@@ -1,0 +1,18 @@
+
+.txtSubTitulo{
+  text-align: center;
+  font-size: 33px;
+  padding: 13px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  font-weight: bolder;
+}
+
+body {
+
+  font-family: sans-serif;
+  float: none;
+  padding-top:10%;
+}
+
+
+
